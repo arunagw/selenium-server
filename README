@@ -1,0 +1,5 @@
+Download and run "bundle install"
+
+Start server by running "rake selenium:rc:start"
+
+Stop server by running "rake selenium:rc:stop"

@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    selenium-client (1.2.18)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  selenium-client (>= 1.2.16)
